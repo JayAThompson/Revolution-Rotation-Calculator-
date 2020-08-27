@@ -1,14 +1,14 @@
 # Rotation Parameters
 
-Adrenaline: 
-Gain:  
-AttackSpeed:  
-Bleeds: 
-Stuns: 
-Abilities: [,,,]
-Style: (,)
-Time: 
+Adrenaline: 100
+Gain:  100
+AttackSpeed:  Average
+Bleeds: True
+Stuns: True
+Abilities: [Smoke Tendrils, Sunshine, Corruption Blast,Wrack,Asphyxiate, Combust, Impact, Deep Impact, Dragon Breath, Sonic Wave, Concentrated Blast, Wild Magic, Chain, Detonate, Metamorphosis, Tsunami]
+Style: (MAGIC,1)
+Time: 60
 
-# Mode
+# Mode 1
 
 units: seconds
